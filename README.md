@@ -1,5 +1,5 @@
 # AST To Wav Converter
- A program that converts a Nintendo AST stream file into a WAV file
+ A program that converts a Nintendo AST stream file into a WAV file.
  Some games that use this format are The Legend of Zelda: Twilight Princess, Super Mario Galaxy, and Super Mario Galaxy 2
 
 # Usage
